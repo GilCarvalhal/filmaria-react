@@ -1,3 +1,19 @@
+# PROJETO REACT FILMARIA
+
+#### Projeto criado como forma didática para fortificar o conhecimento de ReactJS e algumas de suas libs:
+
+Fiz requisições HTTP a uma API Externa com lib Axios.
+
+Utilizamos também a lib react-router-dom para trabalharmos com rotas e criarmos um sistema de rotas sólido (Utilizando vários benefícios da lib).
+
+Utilizamos a lib de alertas, React Toastify, para exibição de alertas personalizados.
+
+Trabalhei também com os Hooks do ReactJS, onde se consegue trabalhar com os ciclos de vida, entre outras novas funcionalidades que os Hooks puderam acrescentar ao React.
+
+Utilizei LocalStorage para armazenamento dos dados em cache no navegador. Manipulei tais dados armazenados e consegui listar, incluir e deletar informações, tudo com base nos dados que temos armazenado em Storage Local.
+
+--------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
